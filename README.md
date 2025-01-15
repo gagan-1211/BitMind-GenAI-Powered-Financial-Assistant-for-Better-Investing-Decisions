@@ -1,78 +1,70 @@
-# GenAI-Powered Financial Assistant
+# Getting Started with Create React App
 
-## Project Description
-The GenAI-Powered Financial Assistant is designed to revolutionize investing by offering personalized, conversational guidance powered by Generative AI. It simplifies financial concepts, answers investment-related questions, and provides actionable insights to empower users to make informed financial decisions.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## Features
-- **Conversational Interface**: Users can ask investment-related questions in natural language.
-- **Personalized Recommendations**: Tailored financial advice based on user preferences and goals.
-- **Real-Time Market Data**: Updates on stock prices, mutual funds, and market trends.
-- **Financial Literacy Resources**: Educational tools for users to understand investment basics.
-- **Seamless Integration**: Connects to financial APIs for accurate and timely data.
+In the project directory, you can run:
 
----
+### `npm start`
 
-## Technologies Used
-- **Front-End**: React or Flutter for an interactive and user-friendly interface.
-- **Back-End**: Node.js or Python FastAPI for managing API requests and business logic.
-- **AI Layer**: Gemini API for conversational AI and generative responses.
-- **Database**: Google Firestore or Cloud SQL for secure data storage.
-- **Cloud Platform**: Google Cloud Platform (GCP) with Vertex AI, App Engine, and Cloud Storage.
-- **APIs**: Alpha Vantage or IEX Cloud for financial data.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
----
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## How to Run the Project
-### Prerequisites
-1. Install [Node.js](https://nodejs.org/) or [Python](https://www.python.org/).
-2. Install [Git](https://git-scm.com/) to clone the repository.
-3. Set up an account on [Google Cloud Platform](https://cloud.google.com/) for API keys and services.
+### `npm test`
 
-### Steps
-1. Clone the Repository:
-   ```bash
-   git clone https://github.com/https://github.com/gagan-1211/BitMind-GenAI-Powered-Financial-Assistant-for-Better-Investing-Decisions.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd [project-folder]
-   ```
-3. Install dependencies:
-   - For Node.js:
-     ```bash
-     npm install
-     ```
-   - For Python:
-     ```bash
-     pip install -r requirements.txt
-     ```
-4. Add Environment Variables:
-   - Create a `.env` file with the following keys:
-     ```env
-     GEMINI_API_KEY=your_api_key_here
-     DATABASE_URL=your_database_url_here
-     ```
-5. Run the application:
-   - For Node.js:
-     ```bash
-     npm start
-     ```
-   - For Python:
-     ```bash
-     python app.py
-     ```
-6. Access the application in your browser at `http://localhost:3000` (or the specified port).
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-## Contributors
-- **GAGAN NADGER**: Team Lead & AI Developer
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
----
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
----
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
