@@ -33,7 +33,7 @@ The GenAI-Powered Financial Assistant is designed to revolutionize investing by 
 ### Steps
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/[your-repo-link].git
+   git clone https://github.com/https://github.com/gagan-1211/BitMind-GenAI-Powered-Financial-Assistant-for-Better-Investing-Decisions.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -68,7 +68,7 @@ The GenAI-Powered Financial Assistant is designed to revolutionize investing by 
 ---
 
 ## Contributors
-- **[Your Name]**: Team Lead & AI Developer
+- **GAGAN NADGER**: Team Lead & AI Developer
 
 ---
 
